@@ -3,7 +3,7 @@
 ![Screenshot](https://github.com/sofijacom/KLV-BspwmCE/assets/107557749/10b99097-9983-4832-acb9-e09236b3c9fc)
 
 
-# Assembly of KLV-BspwmCE
+# 💟 Assembly of KLV-BspwmCE 💟
 
 1) Create a folder `KLV-BspwmCE` typing in the terminal `mkdir -p KLV-BspwmCE`
 
